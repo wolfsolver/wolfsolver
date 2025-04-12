@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Always+go+against+the+wind....;only+in+this+way+is+it+possible+to+take+flight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Always+go+against+the+wind....;only+in+this+way+it+is+possible+to+take+flight)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @wolfsolver
